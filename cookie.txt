@@ -1,0 +1,11 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.artron.net	TRUE	/	FALSE	1492666988	_at_pt_0_	2245038
+.artron.net	TRUE	/	FALSE	1492666988	_at_pt_1_	sapwn87878
+.artron.net	TRUE	/	FALSE	1492666988	_at_pt_2_	fdfe8130ccd241861a12102a406061d1
+passport.artron.net	FALSE	/	FALSE		PST_cnt_home	http%3A%2F%2Fpassport.artron.net%2FmemCenter%2Findex
+passport.artron.net	FALSE	/	FALSE		PST_cnt_redirect	http%3A%2F%2Fpassport.artron.net%2FmemCenter%2Findex
+passport.artron.net	FALSE	/	FALSE		PST_cnt_sourceId	0
+passport.artron.net	FALSE	/	FALSE		PST_skin	red
